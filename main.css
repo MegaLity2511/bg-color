@@ -1,0 +1,50 @@
+.box {
+  display: inline-block;
+  padding: 20px 30px;
+  border: 3px solid rgb(204, 201, 201);
+  border-radius: 30px;
+}
+
+.container {
+  width: 1240px;
+  margin-inline: auto;
+  margin-top: 200px;
+}
+
+.text {
+  color: #ff5c3e;
+}
+
+.box2 {
+  margin-left: 68px;
+  background-color: black;
+  display: inline-block;
+  padding: 20px 30px;
+  border: 3px solid rgb(204, 201, 201);
+  border-radius: 30px;
+}
+
+.text2 {
+  color: #ff5c3e;
+}
+
+.text-strong2 {
+  color: white;
+}
+
+.desc2 {
+  color: white;
+
+}
+
+.box3 {
+  margin-left: 68px;
+  display: inline-block;
+  padding: 20px 30px;
+  border: 3px solid rgb(204, 201, 201);
+  border-radius: 30px;
+}
+
+.text3 {
+  color: #ff5c3e;
+}
